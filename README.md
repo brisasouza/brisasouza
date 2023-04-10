@@ -6,9 +6,12 @@ APROCURA DE UMA OPORTUNIDADE DE ESTÁGIO.
 CONTATE-ME NO EMAIL:souzabrisa@hotmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brisasouza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dracula=anuraghazra&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brisasouza=anuraghazra&hide=contribs,prs)
 
 
 
