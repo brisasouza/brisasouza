@@ -9,7 +9,6 @@ CONTATE-ME NO EMAIL:souzabrisa@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisasouza&show_icons=true&theme=dracula)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={brisasouza}&theme=blue-green
 
 
 
