@@ -5,7 +5,7 @@ ESTUDANDO REACT.JS E PHP
 APROCURA DE UMA OPORTUNIDADE DE ESTÁGIO.
 CONTATE-ME NO EMAIL:souzabrisa@hotmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisasouza)](https://github.com/brisasouza/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisasouza_icons=true&theme=dracula)
 
 
 
