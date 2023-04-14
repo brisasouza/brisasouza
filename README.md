@@ -1,11 +1,10 @@
 OLÁ ! EU SOU  BRISA SOUZA
 
 APROCURA DE UMA OPORTUNIDADE DE ESTÁGIO
-- 🌱 Desenvolvedor FullStack
+- 🌱 Desenvolvedora Front-End
 - ❤️ Apaixonada por inovações
 - 🎓 Cursando Análise e desenvolvimento de sistema
-- 📫 Como entrar em contato comigo(#-conecte-se-comigo-)
-
+- Email:souzabriza@hotmail.com
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
